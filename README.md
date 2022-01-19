@@ -5,11 +5,11 @@
 
 
 
-                                           This is my honey, a smart and lovely girl.
+                                            This is my honey, a smart and lovely girl.
 
 <div align=center><img width="300" height="400" src="https://github.com/gtb-2022-ning-xuewen/gtb-2022-ning-xuewen/blob/main/honey.jpg"/></div>
 
-                                     And these are my guys, 天霸和哆啦, I love playing with them.
+                                      And these are my guys, 天霸和哆啦, I love playing with them.
 
 <div align=center><img width="300" height="400" src="https://github.com/gtb-2022-ning-xuewen/gtb-2022-ning-xuewen/blob/main/duola%20and%20tianba.jpg"/></div>
 
