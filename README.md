@@ -5,7 +5,7 @@
 
 
 
-                                             This is my honey, a smart and lovely girl.
+                                              This is my honey, a smart and lovely girl.
 
 <div align=center><img width="300" height="400" src="https://github.com/gtb-2022-ning-xuewen/gtb-2022-ning-xuewen/blob/main/honey.jpg"/></div>
 
